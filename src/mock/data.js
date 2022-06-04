@@ -19,11 +19,11 @@ export const heroData = {
 export const aboutData = {
   img: 'profile.jpg',
   paragraphOne:
-    'Hi! I am a passionate self-taught developer and solution-oriented individual, with a proficient understanding of software development lifecycle. With a high level of attention to details and the ability to learn quickly, often in high pressure situations, I am excited to work with your team.',
+    'Hi! I am a passionate, self-taught developer and solution-oriented individual with a proficient understanding of software development lifecycle. With a high level of attention to details and the ability to learn quickly, often in high-pressure situations, I am excited to work with your team.',
   paragraphTwo:
     'The desire to learn, grow, and improve is what brought me to this point in the first place, but the beauty of this field is that it is so dynamic that there will always be some way to enhance or adapt my skills and learn something new.',
   paragraphThree:
-    'I have a passion for creating unique front-end interfaces and will make sure each of my sites has its own personality to match the functionality. At the same time I appreciate the challenge of building the servers, databases, and middleware required to make a site powerful and efficient so it can fulfill it`s full potential.',
+    'I have a passion for creating unique front-end interfaces and will make sure each of my sites has its own personality to match the functionality. At the same time, I appreciate the challenge of building the servers, databases, and middleware required to make a site powerful and efficient so it can fulfill its full potential.',
   resume: 'https://drive.google.com/file/d/1FsINMl3agkQNpCTTHa2bAfeWDLalaICE/view?usp=sharing', // if no resume, the button will not show up
 };
 
