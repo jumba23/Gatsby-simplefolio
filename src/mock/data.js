@@ -19,7 +19,7 @@ export const heroData = {
 export const aboutData = {
   img: 'profile.jpg',
   paragraphOne:
-    'Hi! I am a passionate self-taught developer and solution-oriented individual, with a proficient understanding of software development lifecycle. With high level of attention to details and ability to learn quickly, often in high pressure situations, I am excited to work with your team.',
+    'Hi! I am a passionate self-taught developer and solution-oriented individual, with a proficient understanding of software development lifecycle. With a high level of attention to details and the ability to learn quickly, often in high pressure situations, I am excited to work with your team.',
   paragraphTwo:
     'The desire to learn, grow, and improve is what brought me to this point in the first place, but the beauty of this field is that it is so dynamic that there will always be some way to enhance or adapt my skills and learn something new.',
   paragraphThree:
@@ -33,7 +33,7 @@ export const projectsData = [
     id: nanoid(),
     img: 'twitter.png',
     title: 'Twitter Travel App',
-    info: 'An application built with a React front-end and Express back-end, and is also mobile responsive for multi-device use. The application uses Twitter-API to display tweets by keyword or username. A user have the option to search on the Search page or view tweets from 5 accounts I have pre-selected on the Favorites page. ',
+    info: 'An application built with a React front-end and Express back-end, and is also mobile responsive for multi-device use. The application uses Twitter-API to display tweets by keyword or username. A user has the option to search on the Search page or view tweets from 5 accounts I have pre-selected on the Favorites page. ',
     info2: '',
     url: 'https://twitter-showcase-travel-app.herokuapp.com/',
     repo: 'https://github.com/jumba23/Twitter-Showcase-App', // if no repo, the button will not show up
@@ -51,7 +51,7 @@ export const projectsData = [
     id: nanoid(),
     img: 'expense.png',
     title: 'Expense Tracker App',
-    info: 'This was my first app writen using React and Bootsrap libraries. This app utilizes work with forms and lists, as well as the local memory as additional functionality. A user can add and remove items with ease, without a fear of loosing data.',
+    info: 'This was my first app written using React and Bootstrap libraries. This app utilizes work with forms and lists, as well as the local memory as additional functionality. A user can add and remove items with ease, without a fear of losing data.',
     info2: '',
     url: 'https://react-expense-tracker-app-21.herokuapp.com/',
     repo: 'https://github.com/jumba23/Expense-Tracker-App-REACT', // if no repo, the button will not show up
