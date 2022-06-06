@@ -76,7 +76,7 @@ export const footerData = {
     {
       id: nanoid(),
       name: 'linkedin',
-      url: 'https://www.linkedin.com/in/goran-cvetic-9aaa4288/',
+      url: 'https://www.linkedin.com/in/goran-cvetic/',
     },
     {
       id: nanoid(),
