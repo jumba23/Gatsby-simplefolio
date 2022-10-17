@@ -41,12 +41,12 @@ const Header = () => {
             </span>
           </p>
         </Fade>
-        <span className="to-about">
-          <Link to="about" smooth duration={1000}>
-            <i className="fa fa-angle-down fa-2x" aria-hidden="true" />
-          </Link>
-        </span>
       </Container>
+      <span className="to-about">
+        <Link to="about" smooth duration={1000}>
+          <i className="fa fa-angle-down fa-2x" aria-hidden="true" />
+        </Link>
+      </span>
     </section>
   );
 };
