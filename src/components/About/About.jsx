@@ -1,5 +1,4 @@
 import React, { useContext, useState, useEffect } from 'react';
-import { Link } from 'react-scroll';
 import Fade from 'react-reveal/Fade';
 import { Container, Row, Col } from 'react-bootstrap';
 import Title from '../Title/Title';
@@ -65,11 +64,6 @@ const About = () => {
             </Fade>
           </Col>
         </Row>
-        <span className="to-about">
-          <Link to="about" smooth duration={1000}>
-            <i className="fa fa-angle-down fa-2x" aria-hidden="true" />
-          </Link>
-        </span>
       </Container>
     </section>
   );

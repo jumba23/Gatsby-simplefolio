@@ -1,7 +1,7 @@
 import React, { useContext, useState, useEffect } from 'react';
+import { Link } from 'react-scroll';
 import { Container } from 'react-bootstrap';
 import Fade from 'react-reveal/Fade';
-import { Link } from 'react-scroll';
 import PortfolioContext from '../../context/context';
 
 const Header = () => {
@@ -41,6 +41,11 @@ const Header = () => {
             </span>
           </p>
         </Fade>
+        <span className="to-about">
+          <Link to="about" smooth duration={1000}>
+            <i className="fa fa-angle-down fa-2x" aria-hidden="true" />
+          </Link>
+        </span>
       </Container>
     </section>
   );
