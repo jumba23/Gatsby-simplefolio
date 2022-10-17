@@ -42,7 +42,7 @@ export const projectsData = [
     id: nanoid(),
     img: 'swapi.png',
     title: 'Star Wars API',
-    info: 'An app built with a React, React Bootstrap, and React router dom libraries. This project was a great experience in mastering React and React Router Hooks, fetching data with axios, and handling asynchronous functions. A user can choose a category, see details for each name, and search by typing.',
+    info: 'An app built with a React, React Bootstrap, and React router dom libraries. This project was a great experience in mastering React sates and React Router Hooks, fetching data with Axios, and handling asynchronous API functions. A user can choose a category and see details for each name. Search by category is also available',
     info2: '',
     url: 'https://star-wars-api-version2.herokuapp.com/',
     repo: 'https://github.com/jumba23/StarWars-API', // if no repo, the button will not show up
