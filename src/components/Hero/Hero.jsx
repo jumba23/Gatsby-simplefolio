@@ -36,17 +36,31 @@ const Header = () => {
           <p className="hero-cta">
             <span className="cta-btn cta-btn--hero">
               <Link to="about" smooth duration={1000}>
-                {cta || 'Know more'}
+                {cta || 'About Me'}
+              </Link>
+            </span>
+          </p>
+          <p className="hero-cta">
+            <span className="cta-btn cta-btn--hero">
+              <Link to="about" smooth duration={1000}>
+                {cta || 'Projects'}
+              </Link>
+            </span>
+          </p>
+          <p className="hero-cta">
+            <span className="cta-btn cta-btn--hero">
+              <Link to="about" smooth duration={1000}>
+                {cta || 'Contact'}
               </Link>
             </span>
           </p>
         </Fade>
       </Container>
-      <span className="to-about">
+      {/* <span className="to-about">
         <Link to="about" smooth duration={1000}>
           <i className="fa fa-angle-down fa-2x" aria-hidden="true" />
         </Link>
-      </span>
+      </span> */}
     </section>
   );
 };

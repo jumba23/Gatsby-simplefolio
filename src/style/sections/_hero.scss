@@ -3,8 +3,6 @@
   height: 100vh;
   display: flex;
   align-items: center;
-  justify-content: center;
-  flex-direction: column;
   border-bottom: 0px;
   background: $white-color;
   font-weight: 400;
@@ -66,16 +64,16 @@
   }
   
 }
-.to-about i {
-  // display:flex;
-  // align-items: flex-end;
-  margin-top: auto;
-  color: #02aab0;
-  margin: 1rem 0 $default-font-size;
-  transition: all 0.2s ease-in;
-  cursor: pointer;
+// .to-about i {
+//   // display:flex;
+//   // align-items: flex-end;
+//   margin-top: auto;
+//   color: #02aab0;
+//   margin: 1rem 0 $default-font-size;
+//   transition: all 0.2s ease-in;
+//   cursor: pointer;
 
-  &:hover {
-    transform: translateY(-2px);
-  }
-}
+//   &:hover {
+//     transform: translateY(-2px);
+//   }
+// }
