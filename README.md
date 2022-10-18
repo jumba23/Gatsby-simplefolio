@@ -17,4 +17,4 @@ Copy and paste the following code one at the time
 
 5. nvm ls -> lists all of the available nodes on your PC
 
-6. nvm use 14.9.0
+6. nvm use 14.15.0
