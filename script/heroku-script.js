@@ -5,14 +5,14 @@ const app = express();
 const port = process.env.PORT || 3000;
 app.use(express.json());
 // Your static pre-build assets folder
-app.use(express.static(path.join(__dirname, '..', 'public')));
+app.use(express.static(path.join(__dirname, '..', 'static')));
 // Root Redirects to the pre-build assets
 app.get('/', function (req, res) {
-  res.sendFile(path.join(__dirname, '..', 'public'));
+  res.sendFile(path.join(__dirname, '..', 'static'));
 });
 // Any Page Redirects to the pre-build assets folder index.html that // will load the react app
 app.get('*', function (req, res) {
-  res.sendFile(path.join(__dirname, '..', 'public/index.html'));
+  res.sendFile(path.join(__dirname, '..', 'static/index.html'));
 });
 app.listen(port, () => {
   console.log('Server is running on port: ', port);
