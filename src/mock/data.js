@@ -24,7 +24,7 @@ export const aboutData = {
     'The desire to learn, grow, and improve is what brought me to this point in the first place, but the beauty of this field is that it is so dynamic that there will always be some way to enhance or adapt my skills and learn something new.',
   paragraphThree:
     'I have a passion for creating unique front-end interfaces and will make sure each of my sites has its own personality to match the functionality. At the same time, I appreciate the challenge of building the servers, databases, and middleware required to make a site powerful and efficient so it can fulfill its full potential.',
-  resume: 'https://drive.google.com/file/d/12WUB-5-GaftAhpL_nb-tsVovitWTKCuz/view?usp=sharing', // if no resume, the button will not show up
+  resume: 'https://drive.google.com/file/d/12Wnw2fnZUZAzERjMwyNq1dl4bsG7aC9Q/view?usp=sharing', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
