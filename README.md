@@ -2,7 +2,7 @@
 
 This is my Gatsby portofolio website. Hosted on Heroku.
 
-###NVM - node management
+### NVM - node management
 
 Copy and paste the following code one at the time
 
@@ -18,3 +18,9 @@ Copy and paste the following code one at the time
 5. nvm ls -> lists all of the available nodes on your PC
 
 6. nvm use 14.15.0
+
+### Adding static file resources
+
+1. add two folders BIN and CONFIG
+
+2. Procfile
