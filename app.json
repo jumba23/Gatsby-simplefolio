@@ -1,3 +1,4 @@
 {
-  "buildpacks": [{ "url": "heroku/nodejs" }]
+  "buildpacks": [{ "url": "heroku/nodejs" }],
+  "buildpacks": [{ "url": "heroku/heroku-buildpack-nginx" }]
 }
