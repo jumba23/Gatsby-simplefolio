@@ -27,6 +27,8 @@ export const aboutData = {
   resume: 'https://drive.google.com/file/d/12Wnw2fnZUZAzERjMwyNq1dl4bsG7aC9Q/view?usp=sharing', // if no resume, the button will not show up
 };
 
+// https://drive.google.com/file/d/12Wnw2fnZUZAzERjMwyNq1dl4bsG7aC9Q/view?usp=sharing
+
 // PROJECTS DATA
 export const projectsData = [
   {
