@@ -31,6 +31,15 @@ export const aboutData = {
 export const projectsData = [
   {
     id: nanoid(),
+    img: 'chat-app.png',
+    title: 'Chat App MERN',
+    info: 'This app is built using MERN stack. This app utilizes socket.io for communication between frontend and backend. A user can add and remove items with ease, without a fear of losing data. This was my first great venture into REDUX library. A user can quickly message friends individually or in a group',
+    info2: '',
+    url: 'https://chat-app-fullstack-mern.herokuapp.com/',
+    repo: 'https://github.com/jumba23/chat-app', // if no repo, the button will not show up
+  },
+  {
+    id: nanoid(),
     img: 'twitter.png',
     title: 'Twitter Travel App',
     info: 'An application built with a React front-end and Express back-end, and is also mobile responsive for multi-device use. The application uses Twitter-API to display tweets by keyword or username. A user has the option to search on the Search page or view tweets from 5 accounts I have pre-selected on the Favorites page. ',
@@ -46,15 +55,6 @@ export const projectsData = [
     info2: '',
     url: 'https://star-wars-api-version2.herokuapp.com/',
     repo: 'https://github.com/jumba23/StarWars-API', // if no repo, the button will not show up
-  },
-  {
-    id: nanoid(),
-    img: 'expense.png',
-    title: 'Expense Tracker App',
-    info: 'This was my first app written using React and Bootstrap libraries. This app utilizes work with forms and lists, as well as the local memory as additional functionality. A user can add and remove items with ease, without a fear of losing data.',
-    info2: '',
-    url: 'https://react-expense-tracker-app-21.herokuapp.com/',
-    repo: 'https://github.com/jumba23/Expense-Tracker-App-REACT', // if no repo, the button will not show up
   },
 ];
 
