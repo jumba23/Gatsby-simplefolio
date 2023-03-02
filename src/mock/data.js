@@ -19,11 +19,11 @@ export const heroData = {
 export const aboutData = {
   img: 'profile.jpg',
   paragraphOne:
-    'Hi! I am a passionate, self-taught developer and solution-oriented individual with a proficient understanding of software development lifecycle. With a high level of attention to details and the ability to learn quickly, often in high-pressure situations, I am excited to work with your team.',
+    'I am passionate about coding and continuously learning new technologies. It is something I can do for days on end. When I am not working, I enjoy spending time with my wife and kids. Family is very important to me, and I always strive to maintain a good work-life balance.',
   paragraphTwo:
-    'The desire to learn, grow, and improve is what brought me to this point in the first place, but the beauty of this field is that it is so dynamic that there will always be some way to enhance or adapt my skills and learn something new.',
+    'At my current job, I was presented with an opportunity to learn about another programming paradigm. I gladly took on this challenge without hesitation, even while continuing to complete my current job tasks uninterrupted. I dedicated significant time to understanding JavaScript and React, taking extra time to grasp the smallest nuances of both. With React, my main interest was in state management and custom hooks, which I was able to apply to my portfolio apps. These skills have proven invaluable in my current role as a software developer.',
   paragraphThree:
-    'I have a passion for creating unique front-end interfaces and will make sure each of my sites has its own personality to match the functionality. At the same time, I appreciate the challenge of building the servers, databases, and middleware required to make a site powerful and efficient so it can fulfill its full potential.',
+    'I love what I do and am always eager to learn more. The dynamic nature of software development keeps me engaged and motivated to improve. I am committed to providing high-quality work and am constantly seeking out new challenges to help me grow as a developer.',
   resume: 'https://drive.google.com/file/d/12iZTN7sq78guq9P5hDL3muftsTL9bNF3/view?usp=sharing', // if no resume, the button will not show up
 };
 
