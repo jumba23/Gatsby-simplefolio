@@ -24,7 +24,7 @@ export const aboutData = {
     'At my current job, I was presented with an opportunity to learn about another programming paradigm. I gladly took on this challenge without hesitation, even while continuing to complete my current job tasks uninterrupted. I dedicated significant time to understanding JavaScript and React, taking extra time to grasp the smallest nuances of both. With React, my main interest was in state management and custom hooks, which I was able to apply to my portfolio apps. These skills have proven invaluable in my current role as a software developer.',
   paragraphThree:
     'I love what I do and am always eager to learn more. The dynamic nature of software development keeps me engaged and motivated to improve. I am committed to providing high-quality work and am constantly seeking out new challenges to help me grow as a developer.',
-  resume: 'https://drive.google.com/file/d/12iZTN7sq78guq9P5hDL3muftsTL9bNF3/view?usp=sharing', // if no resume, the button will not show up
+  resume: 'https://drive.google.com/file/d/13gZ7JS-E-pxXR281zTYNvfSolpA2GH5_/view?usp=share_link', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
