@@ -19,12 +19,12 @@ export const heroData = {
 export const aboutData = {
   img: 'profile.jpg',
   paragraphOne:
-    'I am passionate about coding and continuously learning new technologies. It is something I can do for days on end. When I am not working, I enjoy spending time with my wife and kids. Family is very important to me, and I always strive to maintain a good work-life balance.',
+    'Hi, I am a Full Stack Developer in San Diego with a knack for diving deep into the "why" behind the code. While I am skilled in technologies like JavaScript, React, Next.js, Typescript, Node, and SQL, what sets me apart is my focus on understanding the underlying logic and principles. Whether it is mastering state management in React or exploring new paradigms, I believe that grasping the essence of these technologies leads to cleaner, more maintainable code.',
   paragraphTwo:
-    'At my current job, I was presented with an opportunity to learn about another programming paradigm. I gladly took on this challenge without hesitation, even while continuing to complete my current job tasks uninterrupted. I dedicated significant time to understanding JavaScript and React, taking extra time to grasp the smallest nuances of both. With React, my main interest was in state management and custom hooks, which I was able to apply to my portfolio apps. These skills have proven invaluable in my current role as a software developer.',
+    'At my current job, I was presented with an opportunity to learn about another programming paradigm. I gladly took on this challenge without hesitation, even while continuing to complete my current job tasks uninterrupted. I dedicated significant time to understanding JavaScript and React, taking extra time to grasp the smallest nuances of both. With React, my main interest was in state management and custom hooks, which I was able to apply to my portfolio appWhen I am not coding, I am all about family. I value a strong work-life balance because I believe that a happy, well-rounded life fuels creativity and innovation. I bring this balanced philosophy into my professional role, ensuring I deliver high-quality work while also being a reliable and cooperative team member.s. These skills have proven invaluable in my current role as a software developer.',
   paragraphThree:
-    'I love what I do and am always eager to learn more. The dynamic nature of software development keeps me engaged and motivated to improve. I am committed to providing high-quality work and am constantly seeking out new challenges to help me grow as a developer.',
-  resume: 'https://drive.google.com/file/d/13gZ7JS-E-pxXR281zTYNvfSolpA2GH5_/view?usp=share_link', // if no resume, the button will not show up
+    'I love the ever-evolving landscape of software development and am always eager for the next challenge. I don not just write code; I aim to contribute meaningful solutions that stand the test of time. If you are looking for a developer who pairs technical skill with a deep conceptual understanding, I`d love to connect!',
+  resume: 'https://drive.google.com/file/d/13-X-E7jW_smsqrL4W9nJTxJgyj8N5aW8/view?usp=drive_link', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
