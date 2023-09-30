@@ -24,7 +24,7 @@ export const aboutData = {
     'When I am not coding, I am all about family. I value a strong work-life balance because I believe that a happy, well-rounded life fuels creativity and innovation. I bring this balanced philosophy into my professional role, ensuring I deliver high-quality work while also being a reliable and cooperative team member.',
   paragraphThree:
     'I love the ever-evolving landscape of software development and am always eager for the next challenge. I don not just write code; I aim to contribute meaningful solutions that stand the test of time. If you are looking for a developer who pairs technical skill with a deep conceptual understanding, I`d love to connect!',
-  resume: 'https://drive.google.com/file/d/13-X-E7jW_smsqrL4W9nJTxJgyj8N5aW8/view?usp=drive_link', // if no resume, the button will not show up
+  resume: 'https://drive.google.com/file/d/13-X-E7jW_smsqrL4W9nJTxJgyj8N5aW8/view?usp=sharing', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
