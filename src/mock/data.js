@@ -19,12 +19,12 @@ export const heroData = {
 export const aboutData = {
   img: 'profile.jpg',
   paragraphOne:
-    "Hi there, I'm a Full Stack Developer based in San Diego, bringing over 5 years of experience to the table. Specializing in JavaScript, React, Next.js, TypeScript, Node, and SQL, I pride myself not only on my technical abilities but also on my deep dive into the 'why' behind every line of code. This approach ensures not just functionality but also clean, maintainable solutions that stand the test of time. My passion for software development drives me to continually explore new technologies and methodologies, always with the goal of delivering impactful and enduring work./n/n",
+    "Hi there, I'm a Full Stack Developer based in San Diego, bringing over 5 years of experience to the table. Specializing in JavaScript, React, Next.js, TypeScript, Node, and SQL, I pride myself not only on my technical abilities but also on my deep dive into the 'why' behind every line of code. This approach ensures not just functionality but also clean, maintainable solutions that stand the test of time. My passion for software development drives me to continually explore new technologies and methodologies, always with the goal of delivering impactful and enduring work.",
   paragraphTwo:
-    " Outside of coding, my life revolves around family and achieving a healthy work-life balance. I believe that happiness and fulfillment outside of work amplify my creativity and innovation on the job. If you’re seeking a developer who combines a solid technical foundation with a constant thirst for learning and a proven track record of effective teamwork, let's connect and see how we can work together on your next project./n",
+    " Outside of coding, my life revolves around family and achieving a healthy work-life balance. I believe that happiness and fulfillment outside of work amplify my creativity and innovation on the job. If you’re seeking a developer who combines a solid technical foundation with a constant thirst for learning and a proven track record of effective teamwork, let's connect and see how we can work together on your next project.",
   // paragraphThree:
   //   'I love the ever-evolving landscape of software development and am always eager for the next challenge. I don not just write code; I aim to contribute meaningful solutions that stand the test of time. If you are looking for a developer who pairs technical skill with a deep conceptual understanding, I`d love to connect!',
-  resume: 'https://drive.google.com/file/d/1RYwEUwCXnlfKwmD4Z8kx6MSSwVRLLcw5/view?usp=drive_link', // if no resume, the button will not show up
+  resume: 'https://drive.google.com/file/d/1RYwEUwCXnlfKwmD4Z8kx6MSSwVRLLcw5/view?usp=sharing', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
