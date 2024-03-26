@@ -19,12 +19,12 @@ export const heroData = {
 export const aboutData = {
   img: 'profile.jpg',
   paragraphOne:
-    'Hi, I am a Full Stack Developer in San Diego with a knack for diving deep into the "why" behind the code. While I am skilled in technologies like JavaScript, React, Next.js, Typescript, Node, and SQL, what sets me apart is my focus on understanding the underlying logic and principles. Whether it is mastering state management in React or exploring new paradigms, I believe that grasping the essence of these technologies leads to cleaner, more maintainable code.',
+    "Hi there, I'm a Full Stack Developer based in San Diego, bringing over 5 years of experience to the table. Specializing in JavaScript, React, Next.js, TypeScript, Node, and SQL, I pride myself not only on my technical abilities but also on my deep dive into the 'why' behind every line of code. This approach ensures not just functionality but also clean, maintainable solutions that stand the test of time. My passion for software development drives me to continually explore new technologies and methodologies, always with the goal of delivering impactful and enduring work.",
   paragraphTwo:
-    'When I am not coding, I am all about family. I value a strong work-life balance because I believe that a happy, well-rounded life fuels creativity and innovation. I bring this balanced philosophy into my professional role, ensuring I deliver high-quality work while also being a reliable and cooperative team member.',
-  paragraphThree:
-    'I love the ever-evolving landscape of software development and am always eager for the next challenge. I don not just write code; I aim to contribute meaningful solutions that stand the test of time. If you are looking for a developer who pairs technical skill with a deep conceptual understanding, I`d love to connect!',
-  resume: 'https://drive.google.com/file/d/13-X-E7jW_smsqrL4W9nJTxJgyj8N5aW8/view?usp=sharing', // if no resume, the button will not show up
+    "Outside of coding, my life revolves around family and achieving a healthy work-life balance. I believe that happiness and fulfillment outside of work amplify my creativity and innovation on the job. If you’re seeking a developer who combines a solid technical foundation with a constant thirst for learning and a proven track record of effective teamwork, let's connect and see how we can work together on your next project.",
+  // paragraphThree:
+  //   'I love the ever-evolving landscape of software development and am always eager for the next challenge. I don not just write code; I aim to contribute meaningful solutions that stand the test of time. If you are looking for a developer who pairs technical skill with a deep conceptual understanding, I`d love to connect!',
+  resume: 'https://drive.google.com/file/d/1RYwEUwCXnlfKwmD4Z8kx6MSSwVRLLcw5/view?usp=drive_link', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
