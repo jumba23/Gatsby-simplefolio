@@ -31,7 +31,7 @@ const Header = () => {
             <br />
             {subtitle || "I'm a Software Developer."}
           </h1>
-          <h4 className="hero-title">{subtitle || 'React, Next, Node.js, SQL, and more.'}</h4>
+          <h4 className="hero-subtitle">{subtitle || 'React, Next, Node.js, SQL, and more.'}</h4>
         </Fade>
         <Fade left={isDesktop} bottom={isMobile} duration={1000} delay={1000} distance="30px">
           <p className="hero-cta">
