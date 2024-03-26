@@ -34,7 +34,7 @@ export const projectsData = [
     img: 'chat.png',
     title: 'Chat App MERN',
     info: 'This app is built using MERN stack. This app utilizes socket.io for communication between frontend and backend. This was my first great venture into REDUX library while utilizing its many features. A user can quickly message friends individually or in a group while the history of the their previous conversation is maintained',
-    info2: '',
+    info2: 'Tech stack: React | Redux | Node.js | Express | MongoDB | Socket.io',
     url: 'https://chat-app-fullstack-mern.herokuapp.com/',
     repo: 'https://github.com/jumba23/chat-app', // if no repo, the button will not show up
   },
@@ -43,7 +43,7 @@ export const projectsData = [
     img: 'twitter.png',
     title: 'Twitter Travel App',
     info: 'An application built with a React front-end and Express back-end, and is also mobile responsive for multi-device use. The application uses Twitter-API to display tweets by keyword or username. A user has the option to search on the Search page or view tweets from 5 accounts I have pre-selected on the Favorites page. ',
-    info2: '',
+    info2: 'Tech stack: React | Express | Node.js | Twitter-API | Bootstrap | Heroku',
     url: 'https://twitter-showcase-travel-app.herokuapp.com/',
     repo: 'https://github.com/jumba23/Twitter-Showcase-App', // if no repo, the button will not show up
   },
@@ -52,7 +52,7 @@ export const projectsData = [
     img: 'swapi.png',
     title: 'Star Wars API',
     info: 'An app built with a React, React Bootstrap, and React router dom libraries. This project was a great experience in mastering React sates and React Router Hooks, fetching data with Axios, and handling asynchronous API functions. A user can choose a category and see details for each name. Search by category is also available',
-    info2: '',
+    info2: 'Tech stack: React | React Bootstrap | Axios | React Router Dom | Heroku',
     url: 'https://star-wars-api-version2.herokuapp.com/',
     repo: 'https://github.com/jumba23/StarWars-API', // if no repo, the button will not show up
   },
