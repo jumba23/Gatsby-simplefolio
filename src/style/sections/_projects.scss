@@ -16,6 +16,11 @@
       margin-bottom: 0rem;
     }
 
+    .info-bold {
+      // This is the new class for making `info2` text bolder
+      font-weight: bold; // Adjust this value as needed, could be 700 or 800 for more weight
+    }
+
     .row {
       margin-bottom: 8rem;
 
