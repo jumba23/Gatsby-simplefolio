@@ -31,7 +31,7 @@ const Header = () => {
             <br />
             {subtitle || "I'm a Software Developer."}
           </h1>
-          <h2 className="hero-subtitle">
+          <h2 className="hero-title">
             {subtitle || 'I specialize in building web applications with modern technologies.'}
             <br />
             {subtitle || 'React, Next, Node.js, SQL, and more.'}
