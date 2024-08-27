@@ -2,9 +2,10 @@ import { nanoid } from 'nanoid';
 
 // HEAD DATA
 export const headData = {
-  title: '', // e.g: 'Name | Developer'
-  lang: '', // e.g: en, es, fr, jp
-  description: '', // e.g: Welcome to my website
+  title: 'Goran Cvetic | Software Developer | NextJs, React, TypeScript', // e.g: 'Name | Developer'
+  lang: 'en', // e.g: en, es, fr, jp
+  description:
+    'This is my portfolio website where you can see some of my projects, lear few things about me, and even get in touch directly', // e.g: Welcome to my websitemy website
 };
 
 // HERO DATA
@@ -31,7 +32,7 @@ export const aboutData = {
 export const projectsData = [
   {
     id: nanoid(),
-    img: 'homeaway.png',
+    img: 'homeaway1.png',
     title: 'Home Away',
     info: 'A Next.js & TypeScript-based Airbnb replica featuring secure authentication, property listings, booking system with Stripe integration, responsive UI with Tailwind CSS and Shadcn-ui, real-time state management with Zustand, and a Supabase-powered backend.',
     info2: 'Tech stack: NextJs | TypeScript | Supabase | Prisma | Zustand | Zod |Vercel',
