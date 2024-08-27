@@ -5,7 +5,7 @@ export const headData = {
   title: 'Goran Cvetic | Software Developer | NextJs, React, TypeScript', // e.g: 'Name | Developer'
   lang: 'en', // e.g: en, es, fr, jp
   description:
-    'This is my portfolio website where you can see some of my projects, lear few things about me, and even get in touch directly', // e.g: Welcome to my websitemy website
+    'This is my portfolio website where you can see some of my projects, lear few things about me, and even get in touch directly', // e.g: Welcome to my website my website
 };
 
 // HERO DATA
