@@ -22,5 +22,3 @@ Copy and paste the following code one at the time
 ### Adding static file resources
 
 1. add two folders BIN and CONFIG
-
-2. Procfile
