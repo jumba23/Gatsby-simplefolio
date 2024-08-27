@@ -31,6 +31,15 @@ export const aboutData = {
 export const projectsData = [
   {
     id: nanoid(),
+    img: 'homeaway.png',
+    title: 'Home Away',
+    info: 'A Next.js & TypeScript-based Airbnb replica featuring secure authentication, property listings, booking system with Stripe integration, responsive UI with Tailwind CSS and Shadcn-ui, real-time state management with Zustand, and a Supabase-powered backend.',
+    info2: 'Tech stack: NextJs | TypeScript | Supabase | Prisma | Zustand | Zod |Vercel',
+    url: 'https://home-away-five.vercel.app/',
+    repo: 'https://github.com/jumba23/Home-Away', // if no repo, the button will not show up
+  },
+  {
+    id: nanoid(),
     img: 'chat.png',
     title: 'Chat App MERN',
     info: 'This app is built using MERN stack. This app utilizes socket.io for communication between frontend and backend. This was my first great venture into REDUX library while utilizing its many features. A user can quickly message friends individually or in a group while the history of the their previous conversation is maintained',
@@ -46,15 +55,6 @@ export const projectsData = [
     info2: 'Tech stack: React | Express | Node.js | Twitter-API | Bootstrap | Heroku',
     url: 'https://twitter-showcase-travel-app.herokuapp.com/',
     repo: 'https://github.com/jumba23/Twitter-Showcase-App', // if no repo, the button will not show up
-  },
-  {
-    id: nanoid(),
-    img: 'swapi.png',
-    title: 'Star Wars API',
-    info: 'An app built with a React, React Bootstrap, and React router dom libraries. This project was a great experience in mastering React sates and React Router Hooks, fetching data with Axios, and handling asynchronous API functions. A user can choose a category and see details for each name. Search by category is also available',
-    info2: 'Tech stack: React | React Bootstrap | Axios | React Router Dom | Heroku',
-    url: 'https://star-wars-api-version2.herokuapp.com/',
-    repo: 'https://github.com/jumba23/StarWars-API', // if no repo, the button will not show up
   },
 ];
 
