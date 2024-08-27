@@ -32,7 +32,7 @@ export const aboutData = {
 export const projectsData = [
   {
     id: nanoid(),
-    img: 'homeaway1.png',
+    img: 'homeaway.png',
     title: 'Home Away',
     info: 'A Next.js & TypeScript-based Airbnb replica featuring secure authentication, property listings, booking system with Stripe integration, responsive UI with Tailwind CSS and Shadcn-ui, real-time state management with Zustand, and a Supabase-powered backend.',
     info2: 'Tech stack: NextJs | TypeScript | Supabase | Prisma | Zustand | Zod |Vercel',
